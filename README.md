@@ -19,4 +19,20 @@
 3. 3.1 Cross Sell--Target, Achive, New. 3.1 New-Target, Achive, New. 3.1 Renewal-Target, Achive, New.
 4. Stage Funnel by Revenue.
 5. No of Meeting By the Account Executive.
-6. Top Open Opportunity.
+6. Top Open Opportunity.![Excel dashboard](https://github.com/user-attachments/assets/198e96e6-cb49-4e45-bcdf-30b58184c21d)
+
+
+# Dashboard Using Excel
+![Excel dashboard](https://github.com/user-attachments/assets/198e96e6-cb49-4e45-bcdf-30b58184c21d)
+
+
+# Dashboard Using PowerBI
+![Powerbi dashboard ](https://github.com/user-attachments/assets/95f694b0-159c-4d8f-b9ff-4335065ea3e7)
+
+
+# Dashboard Using Tableau
+![Tableau Dashboard](https://github.com/user-attachments/assets/7a418254-314f-4c9c-b8ab-cc84fda831e5)
+
+
+# MYSQL Work 
+<a href="https://github.com/SandeshReddyGS/Insurance_Analysis-/blob/main/Sql_project.sql">Link</a>
