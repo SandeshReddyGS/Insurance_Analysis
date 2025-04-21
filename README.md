@@ -1,7 +1,7 @@
 # Insurance_Analysis
 
 # Project Understanding 
-## Branch dashboard to discuss New and renewal business number with each branch. This dashboard will be discussed between Corporate team and Individual branch heads. Individual performance within the branch:
+Branch dashboard to discuss New and renewal business number with each branch. This dashboard will be discussed between Corporate team and Individual branch heads. Individual performance within the branch:
 * Target FY from Individual target sheet (New, Cross sell and Renewal) Fields to be referred (Column C, E, F and G)
 * Placed Achievement form Brokerage + Fees sheet (New, Cross sell and Renewal) (Brokerage sheet: Column G, J, M, K, L) (Fees Sheet: B, D, E, F, G)
 * Invoiced Achievement from Invoice sheet (New, Cross sell and Renewal) Column (B, F, G, J)
@@ -34,5 +34,5 @@
 ![Tableau Dashboard](https://github.com/user-attachments/assets/7a418254-314f-4c9c-b8ab-cc84fda831e5)
 
 
-# MYSQL Work 
+# MYSQL  
 <a href="https://github.com/SandeshReddyGS/Insurance_Analysis-/blob/main/Sql_project.sql">Link</a>
