@@ -12,14 +12,13 @@ Branch dashboard to discuss New and renewal business number with each branch. Th
 * Conversion Ratio (Closed Won/Total Opportunity)
 * Further drill down to individual level top 10 open oppty and Win 
  
-# KPI List
-<a href="https://github.com/SandeshReddyGS/Insurance_Analysis-/blob/main/Insurance%20KPI%20Sheet.pptx">KPI</a>
+# KPI List:   <a href="https://github.com/SandeshReddyGS/Insurance_Analysis-/blob/main/Insurance%20KPI%20Sheet.pptx">KPI</a>
 1. No of Invoice by Account Executive.
 2. Yearly Meeting Count.
 3. 3.1 Cross Sell--Target, Achive, New. 3.1 New-Target, Achive, New. 3.1 Renewal-Target, Achive, New.
 4. Stage Funnel by Revenue.
 5. No of Meeting By the Account Executive.
-6. Top Open Opportunity.![Excel dashboard](https://github.com/user-attachments/assets/198e96e6-cb49-4e45-bcdf-30b58184c21d)
+6. Top Open Opportunity.
 
 
 # Dashboard Using Excel
