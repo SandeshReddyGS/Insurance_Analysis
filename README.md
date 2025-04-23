@@ -26,7 +26,7 @@ Branch dashboard to discuss New and renewal business number with each branch. Th
 
 
 # Dashboard Using PowerBI
-![Powerbi dashboard ](https://github.com/user-attachments/assets/95f694b0-159c-4d8f-b9ff-4335065ea3e7)
+![PowerBI insurance dashboard](https://github.com/user-attachments/assets/5ba889e3-bafe-48d9-9654-aef74ab0a981)
 
 
 # Dashboard Using Tableau
